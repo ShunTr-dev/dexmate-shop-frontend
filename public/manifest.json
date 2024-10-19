@@ -1,0 +1,30 @@
+{
+    "short_name": "Dexmate",
+    "name": "Dexmate - A shop with IA",
+    "icons": [
+        {
+            "src": "https://dexmate-shop.s3.eu-west-3.amazonaws.com/dexmate-24x24.webp",
+            "sizes": "24x24 16x16",
+            "type": "image/webp"
+        },
+        {
+            "src": "https://dexmate-shop.s3.eu-west-3.amazonaws.com/dexmate-64x64.webp",
+            "type": "image/webp",
+            "sizes": "64x64 32x32"
+        },
+        {
+            "src": "https://dexmate-shop.s3.eu-west-3.amazonaws.com/dexmate-192x192.webp",
+            "type": "image/webp",
+            "sizes": "192x192"
+        },
+        {
+            "src": "https://dexmate-shop.s3.eu-west-3.amazonaws.com/dexmate-512x512.webp",
+            "type": "image/webp",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
