@@ -8,6 +8,15 @@ Puedes encontrar el backend en este otro repo: https://github.com/ShunTr-dev/dex
 
 [Dexmate](https://dexmate.shuntr.dev/) automatiza la creación de productos para tiendas online mediante el uso de inteligencia artificial. El sistema puede generar descripciones, traducirlas a varios idiomas, crear imágenes de productos y gestionar toda la información necesaria para el inventario y las ventas, lo que facilita y acelera el proceso de añadir nuevos artículos a una tienda.
 
+
+
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fdexmate.shuntr.dev%2F_caca)
+
+
+
+
+
+
 ## [Arquitectura del Sistema](https://dexmate.shuntr.dev/features)
 
 La aplicación está dividida en varios componentes:
