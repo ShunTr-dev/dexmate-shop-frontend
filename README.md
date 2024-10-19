@@ -1,23 +1,12 @@
-# Dexmate
+# [Dexmate](https://dexmate.shuntr.dev/)
 
-Dexmate es una plataforma automatizada para la creación y gestión de productos en una tienda online. Aprovecha la inteligencia artificial y diversas tecnologías para generar descripciones, imágenes y traducciones de productos de manera eficiente y escalable.
+[Dexmate](https://dexmate.shuntr.dev/) es una plataforma automatizada para la creación y gestión de productos en una tienda online. Aprovecha la inteligencia artificial y diversas tecnologías para generar descripciones, imágenes y traducciones de productos de manera eficiente y escalable.
 
 Puedes encontrar el backend en este otro repo: https://github.com/ShunTr-dev/dexmate-shop-backend
 
-## Tabla de Contenidos
-
--   [Descripción General](#descripción-general)
--   [Arquitectura del Sistema](#arquitectura-del-sistema)
--   [Características Principales](#características-principales)
--   [Tecnologías Utilizadas](#tecnologías-utilizadas)
--   [Instalación y Configuración](#instalación-y-configuración)
--   [Uso](#uso)
--   [Contribuir](#contribuir)
--   [Licencia](#licencia)
-
 ## [Descripción General](https://dexmate.shuntr.dev/features)
 
-Dexmate automatiza la creación de productos para tiendas online mediante el uso de inteligencia artificial. El sistema puede generar descripciones, traducirlas a varios idiomas, crear imágenes de productos y gestionar toda la información necesaria para el inventario y las ventas, lo que facilita y acelera el proceso de añadir nuevos artículos a una tienda.
+[Dexmate](https://dexmate.shuntr.dev/) automatiza la creación de productos para tiendas online mediante el uso de inteligencia artificial. El sistema puede generar descripciones, traducirlas a varios idiomas, crear imágenes de productos y gestionar toda la información necesaria para el inventario y las ventas, lo que facilita y acelera el proceso de añadir nuevos artículos a una tienda.
 
 ## [Arquitectura del Sistema](https://dexmate.shuntr.dev/features)
 
