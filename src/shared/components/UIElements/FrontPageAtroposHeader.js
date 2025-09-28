@@ -8,7 +8,6 @@ const FrontPageAtroposHeader = ({ children }) => {
     const { t } = useTranslation();
 
     return (
-        <Atropos style={{ width: '100%', minHeight: '300px' }} activeOffset={40} shadow={false}>
             <section className="section-pattern p-t-60 p-b-30 text-center">
                 <div className="container">
                     <div className="row">
@@ -30,7 +29,6 @@ const FrontPageAtroposHeader = ({ children }) => {
                     </div>
                 </div>
             </section>
-        </Atropos>
     );
 };
 
